@@ -28,7 +28,7 @@ We highly recommend to create a new conda environment and run:
 ```
 pip install -r requirements.txt
 ```
-We have tested our model on CUDA11.8. 
+We have tested our model on CUDA11.8 and Python 3.8. 
 We provide some basic instructions in `requirements.txt`.
 You can download correct version of `torch`, `torchvision` from [this website](https://pytorch.org/get-started/previous-versions/).
 
